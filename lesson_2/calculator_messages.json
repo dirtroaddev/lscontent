@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Welcome to Calculator!"
+    },
+    {
+        "question": "What's the first number?"
+    },
+    {
+        "question": "Hmm... that doesn't look like a valid number."
+    },
+    {
+        "question": "What's the second number?"
+    },
+    {
+        "question": "Hmm... that doesn't look like a valid number."
+    },
+    {
+        "question": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiple 4) Divide"
+    },
+    {
+        "question": "Would you like to make another calculation? Y for yes, N for no"
+    }
+]
