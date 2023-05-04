@@ -1,0 +1,11 @@
+// spaces indented
+for (let i = 0; i < 10; i++) {
+
+    console.log(" ".repeat(i + 1) + "The Flintstones Rock!");
+}
+
+
+// switch case
+let munstersDescription = "The Munsters are creepy and spooky.";
+munstersDescription.split("").map(elem => elem === elem.toUpperCase() ? elem.toLowerCase() : elem.toUpperCase()).join('');
+
