@@ -15,8 +15,8 @@ function first() {
   console.log(first());
   console.log(second());
 
-  // fix Bens code
-  // Alyssa reviewed Ben's code and said, 
+// fix Bens code
+// Alyssa reviewed Ben's code and said, 
 // "It's a good start, but you missed a few things.
 // You're not returning a false condition,
 // and you're not handling the case 
